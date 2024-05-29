@@ -1,5 +1,6 @@
 # Taller de Soporte Informático 2024
 
-## Integrantes:
+## Integrantes
 
-- Francisco Casais
+- Casais, Francisco
+- Eberle, Lautaro
